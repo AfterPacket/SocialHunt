@@ -43,7 +43,7 @@ def print_banner():
                 |/    |/    |        /
                 '     '     '       '\033[0m
 
-   \033[33m[ Username Search Tool - Version 1.0 - Made by SecRas ]\033[0m
+   \033[33m[ Username Search Tool - Version 1.0 - Made by AfterPacket ]\033[0m
 """
     print(banner)
 
