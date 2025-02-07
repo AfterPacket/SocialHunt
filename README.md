@@ -1,4 +1,4 @@
-# SocialHunt
+# Social Hunt
 A comprehensive social media username search tool that checks username availability across multiple platforms.
 
 ## Features
